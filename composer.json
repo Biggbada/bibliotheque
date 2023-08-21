@@ -1,0 +1,15 @@
+{
+    "name": "yann/bibliotheque",
+    "require": {
+        "league/csv": "9.9"
+    },
+    "authors": [
+        {
+            "name": "Biggbada",
+            "email": "yguenot@polepo.fr"
+        }
+    ],
+    "require-dev": {
+        "symfony/var-dumper": "^6.3"
+    }
+}
